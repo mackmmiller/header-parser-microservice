@@ -1,0 +1,19 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #ECF0F1;
+	padding: 0 1em;
+}
+
+a {
+	color: #2574A9;
+}
+
+span {
+	background: #F8F0F2;
+	padding: 0.25em;
+	border-radius: 5px;
+}
